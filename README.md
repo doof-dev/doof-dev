@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @stickman-dev
+- 👀 I’m interested in discord bot development
+- 🌱 I’m currently learning discord.py forks
+- 📫 How to reach me unpredictableishere@gmail.com or doof.exe#8028 on discord
