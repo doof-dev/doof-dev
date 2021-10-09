@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stickman-dev
 - 👀 I’m interested in discord bot development, networking and cybersecurity 
-- 🌱 I’m currently learning discord.py forks
+- 🌱 I’m currently learning discord.py 
 - 📫 How to reach me unpredictableishere@gmail.com, doof.exe#8028 on discord or 608-400-4451 ip phone
-- 🎈 age: 13
+- 🎈 age: 14
