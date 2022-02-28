@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5B5B&duration=3500&center=true&vCenter=true&lines=hello+world+I'm+%3C%2Fisaac%3E;some+random+tech+nerd)](https://git.io/typing-svg)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stickman-dev&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stickman-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Repositories</h2>
 
@@ -24,8 +23,8 @@
   <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham"></a>
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h4 align="center"><a href=https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/stickman-dev?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <p align = "center">
-    ⭐️ From <a href="https://github.com/zumrudu-anka/">zumrudu-anka</a>
+    ⭐️ From <a href="https://github.com/stickman-dev/">stickman-dev</a>
 </p>
