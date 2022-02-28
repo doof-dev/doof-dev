@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @stickman-dev
-- 👀 I’m interested in discord bot development, networking and cybersecurity 
-- 🌱 I’m currently learning advanced html, css,js.
-- 📫 How to reach me unpredictableishere@gmail.com, doof.exe#8028 on discord or 608-400-4451 ip phone
-- 🎈 age: 14
-- 邏 website:https://isaac-johnson.stickman-dev.repl.co
+<code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
