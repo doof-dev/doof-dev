@@ -5,9 +5,7 @@
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/stickman-dev/omegle-ip-graber" title="Omegle ip Graber"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=omegle-ip-graber&theme=gotham">
-  
-</a><a align="right" href="  title=" "><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo= &theme=gotham"></a>
+  <a align="left" href="https://github.com/stickman-dev/omegle-ip-graber" title="Omegle ip Graber"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=omegle-ip-graber&theme=gotham"></a><a align="right" href="  title=" "><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo= &theme=gotham"></a>
 </p>
 <br><br>
 
