@@ -5,13 +5,16 @@
 <h2 align="center">About Me</h2>
 
 </📌> interests: **programing, networking, cybersecurity**
+<br>
 </😎> age: **14**
+<br>
 </🌐> current projects: **my portfolio/personal website**
 
 
 <h2 align="center">Contact Me</h2>
 
 </📨> unpredictableishere@gmail.com
+<br>
 </🔵> discord: **doof#8028**
 
 
