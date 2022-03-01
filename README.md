@@ -1,5 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5B5B&duration=3500&center=true&vCenter=true&lines=hello+world+I'm+%3C%2Fisaac%3E;some+random+tech+nerd)](https://git.io/typing-svg)
 <br>
+
+
+<h2 align="center">About Me</h2>
+
+</📌> interests: **programing, networking, cybersecurity**
+</😎> age: **14**
+</🌐> current projects: **my portfolio/personal website**
+
+
+<h2 align="center">Contact Me</h2>
+
+</📨> unpredictableishere@gmail.com
+</🔵> discord: **doof#8028**
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=stickman-dev&show_icons=true&theme=gotham"></a>
 
 <h2 align="center">Repositories</h2>
