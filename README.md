@@ -4,7 +4,7 @@
 
 <h2 align="center">About Me</h2>
 
-</📌> interests: **programing, networking, cybersecurity**
+</📌> interests: **programing, networking and cybersecurity**
 <br>
 </😎> age: **14**
 <br>
