@@ -36,7 +36,7 @@
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h4 align="center"><a href=https://github.com/stickman-dev?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/stickman-dev?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <p align = "center">
     ⭐️ From <a href="https://github.com/stickman-dev/">stickman-dev</a>
