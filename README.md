@@ -30,7 +30,6 @@
 <p width="100%" align="center">
   <a align="left" href="https://github.com/stickman-dev/doof-discord-bot" title="Omegle ip Graber"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=doof-discord-bot&theme=gotham"></a>
 </p>
-<br><br>
 
 
 
@@ -38,7 +37,3 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/stickman-dev?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
-
-<p align = "center">
-    ⭐️ From <a href="https://github.com/stickman-dev/">stickman-dev</a>
-</p>
