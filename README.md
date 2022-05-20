@@ -6,9 +6,16 @@
 
 </📌> interests: **programing, networking and cybersecurity**
 <br>
-</😎> age: **14**
+</👴> age: **14**
 <br>
-</🌐> current projects: **my portfolio/personal website**
+</🌐> current projects: **disocrd shit** JOIN IT for updates
+
+
+<h2 align="center">discord servers</h2>
+
+</>
+<br>
+https://discord.gg/TddwPNm5m
 
 
 <h2 align="center">Contact Me</h2>
