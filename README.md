@@ -26,15 +26,15 @@ https://discord.gg/TddwPNm5m
 
 <h2 align="center">Stats</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=stickman-dev&show_icons=true&theme=gotham"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=stickman-dev&show_icons=true&theme=dark"></a>
 
 
 <h2 align="center">repository</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/stickman-dev/omegle-ip-graber" title="Omegle ip Graber"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=omegle-ip-graber&theme=gotham"></a>
+  <a align="left" href="https://github.com/stickman-dev/omegle-ip-graber" title="Omegle ip Graber"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=omegle-ip-graber&theme=dark"></a>
   
-  <a align="right" href="https://github.com/stickman-dev/isaac-johnson"  title="isaac-johnson.com"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=isaac-johnson&theme=gotham"></a>
+  <a align="right" href="https://github.com/stickman-dev/isaac-johnson"  title="isaac-johnson.com"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=isaac-johnson&theme=dark"></a>
   
   
   <br><br><br><br>
