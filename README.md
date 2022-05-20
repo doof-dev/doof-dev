@@ -15,8 +15,7 @@
 
 </>
 <br>
-https://discord.gg/TddwPNm5m
-
+[![</>](image_2022-05-20_163058237.png "discord")](https://discord.gg/TddwPNm5m)
 
 <h2 align="center">Contact Me</h2>
 
