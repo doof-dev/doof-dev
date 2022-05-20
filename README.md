@@ -45,7 +45,7 @@ https://discord.gg/TddwPNm5m
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 <h4 align="center"><a href=https://github.com/stickman-dev?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 last updated:
