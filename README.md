@@ -32,9 +32,9 @@ https://discord.gg/TddwPNm5m
 <h2 align="center">repository</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/stickman-dev/omegle-ip-graber" title="Omegle ip Graber"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=omegle-ip-graber&theme=dark"></a>
+  <a margin="10px" align="left" href="https://github.com/stickman-dev/omegle-ip-graber" title="Omegle ip Graber"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=omegle-ip-graber&theme=dark"></a>
   
-  <a align="right" href="https://github.com/stickman-dev/isaac-johnson"  title="isaac-johnson.com"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=isaac-johnson&theme=dark"></a>
+  <a margin="10px" align="right" href="https://github.com/stickman-dev/isaac-johnson"  title="isaac-johnson.com"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=isaac-johnson&theme=dark"></a>
   
   
   <br><br><br><br>
