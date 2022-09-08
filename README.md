@@ -8,12 +8,12 @@
 <br>
 </👴> age: **14**
 <br>
-</🌐> current projects: **disocrd shit** JOIN IT for updates
+</🌐> current projects: </>
 
 
 <h2 align="center">discord servers</h2>
 
-</>
+</> **link temp down**
 <br>
 <a href="https://discord.gg/eTddwPNm5m"><img src="image_2022-05-20_163058237.png" alt="discord" style="width:100px;height:100px;"></a>
 
@@ -21,7 +21,7 @@
 
 </📨> unpredictableishere@gmail.com
 <br>
-</🔵> discord: **doof#8028**
+</🔵> discord: **doof#6969**
 
 <h2 align="center">Stats</h2>
 
