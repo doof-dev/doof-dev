@@ -4,11 +4,15 @@
 
 <h2 align="center">About Me</h2>
 
-</📌> interests: **programing, networking and cybersecurity**
-<br>
-</👴> age: **14**
-<br>
-</🌐> current projects: </>
+👴🏻 | age: 14.
+
+📌 | interests: programing, networking and cybersecurity
+
+🌎 | current projects: My discord server
+
+🤪 | education and skills: I am a self tught developer who mainly fouces on the front end. I know Python but dont have that many projects and that is one of my goals.
+
+🥅 | goals: find a career in technolagy.
 
 
 <h2 align="center">discord servers</h2>
