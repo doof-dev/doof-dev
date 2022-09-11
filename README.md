@@ -13,8 +13,11 @@
 🤪 | education and skills: I am a self tught developer who mainly fouces on the front end. I know Python but dont have that many projects and that is one of my goals.
 
 🥅 | goals:
+
 find a career in technolagy.
+
 publish more py and js projects
+
 
 
 
