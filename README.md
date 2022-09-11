@@ -12,7 +12,10 @@
 
 🤪 | education and skills: I am a self tught developer who mainly fouces on the front end. I know Python but dont have that many projects and that is one of my goals.
 
-🥅 | goals: find a career in technolagy.
+🥅 | goals:
+find a career in technolagy.
+publish more py and js projects
+
 
 
 <h2 align="center">discord servers</h2>
@@ -25,7 +28,7 @@
 
 </📨> unpredictableishere@gmail.com
 <br>
-</🔵> discord: **doof#6969**
+</🔵> discord: **doof#6716**
 
 <h2 align="center">Stats</h2>
 
