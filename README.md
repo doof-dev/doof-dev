@@ -41,10 +41,12 @@ publish more py and js projects
 <h2 align="center">repository</h2>
 
 <p width="100%" align="center">
-  <a margin="10px" align="left" href="https://github.com/stickman-dev/omegle-ip-graber" title="Omegle ip Graber"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=omegle-ip-graber&theme=dark"></a>
-  
-  <a margin="10px" align="right" href="https://github.com/stickman-dev/isaac-johnson"  title="isaac-johnson.com"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=isaac-johnson&theme=dark"></a>
-  
+<a margin="20px" href="https://github.com/stickman-dev/omegle-ip-graber" title="Omegle ip Graber"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=omegle-ip-graber&theme=dark"></a>
+									<a margin="20px" href="https://github.com/stickman-dev/exploit-hub" title="exploit-hub"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=exploit-hub&theme=dark"></a>
+									<a margin="20px" href="https://github.com/stickman-dev/isaacj.dev" title="isaacj.dev"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=isaacj.dev&theme=dark"></a>
+									<a margin="20px" href="https://github.com/stickman-dev/musicunzipped" title="musicunzipped"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=musicunzipped&theme=dark"></a>
+									<a margin="20px" href="https://github.com/stickman-dev/py-projects" title="py-projects"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=py-projects&theme=dark"></a>
+									<a margin="20px" href="https://github.com/stickman-dev/js-projects" title="js-projects"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=js-projects&theme=dark"></a>
   
   <br><br><br><br>
   
