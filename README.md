@@ -19,7 +19,7 @@ Harvard's CS50x course
 
 🥅 | short term goals: finish CS50x
 
-💻 | specs:
+💻 | specs:<p>
 	CUP: AMD ryzen 7 3700x<p>
 	GPU: GIGABYTE Radeon RX 5500 XT</P>
 	RAM: 32 GB</p>
