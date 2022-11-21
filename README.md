@@ -27,11 +27,6 @@ Harvard's CS50x course
 
 
 
-<h2 align="center">discord servers</h2>
-
-</>
-<br>
-<a href="https://discord.gg/JK49BqeEs3"><img src="image_2022-05-20_163058237.png" alt="discord" style="width:100px;height:100px;"></a>
 
 <h2 align="center">Contact Me</h2>
 
