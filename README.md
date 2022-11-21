@@ -5,13 +5,22 @@
 <h2 align="center">About Me</h2>
 
 👴🏻 | age: 15.
+
 📌 | interests: programing, networking and cybersecurity
-🌎 | current projects: 30 days of JS
-🤪 | education and skills: I am a self tught full stack developer but I mostly work on the front end. I know Python, JS and am going to start learning C# soon
+
+🌎 | current projects: 
+
+Harvard's CS50x course
+
+
+🤪 | education and skills: I am a self tught developer. I know Python, HTML, CSS, JS and am going to start learning C# soon
+
 🥅 | long term goals: find a career in technolagy
-🥅 | short term goals: make more js, py and C# projects for <a herf="https://isaacj.dev" >isaacj.dev</a></p>
+
+🥅 | short term goals: finish CS50x
+
 💻 | specs:
-	CUP: AMD ryzen 7 3700x
+	CUP: AMD ryzen 7 3700x<p>
 	GPU: GIGABYTE Radeon RX 5500 XT</P>
 	RAM: 32 GB</p>
 
