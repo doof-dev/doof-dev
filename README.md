@@ -30,7 +30,7 @@ Harvard's CS50x course
 
 <h2 align="center">Contact Me</h2>
 
-</📨> unpredictableishere@gmail.com
+</📨> isaac@isaacj.dev
 <br>
 </🔵> discord: **doof#6716**
 
