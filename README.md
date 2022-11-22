@@ -36,18 +36,18 @@ Harvard's CS50x course
 
 <h2 align="center">Stats</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=stickman-dev&show_icons=true&theme=dark"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=doof-dev&show_icons=true&theme=dark"></a>
 
 
 <h2 align="center">repository</h2>
 
 <p width="100%" align="center">
-<a margin="20px" href="https://github.com/stickman-dev/omegle-ip-graber" title="Omegle ip Graber"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=omegle-ip-graber&theme=dark"></a>
-									<a margin="20px" href="https://github.com/stickman-dev/exploit-hub" title="exploit-hub"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=exploit-hub&theme=dark"></a>
-									<a margin="20px" href="https://github.com/stickman-dev/isaacj.dev" title="isaacj.dev"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=isaacj.dev&theme=dark"></a>
-									<a margin="20px" href="https://github.com/stickman-dev/musicunzipped" title="musicunzipped"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=musicunzipped&theme=dark"></a>
-									<a margin="20px" href="https://github.com/stickman-dev/py-projects" title="py-projects"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=py-projects&theme=dark"></a>
-									<a margin="20px" href="https://github.com/stickman-dev/js-projects" title="js-projects"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=stickman-dev&repo=js-projects&theme=dark"></a>
+<a margin="20px" href="https://github.com/doof-dev/omegle-ip-graber" title="Omegle ip Graber"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=doof-dev&repo=omegle-ip-graber&theme=dark"></a>
+									<a margin="20px" href="https://github.com/doof-dev/exploit-hub" title="exploit-hub"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=doof-dev&repo=exploit-hub&theme=dark"></a>
+									<a margin="20px" href="https://github.com/doof-dev/isaacj.dev" title="isaacj.dev"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=doof-dev&repo=isaacj.dev&theme=dark"></a>
+									<a margin="20px" href="https://github.com/doof-dev/musicunzipped" title="musicunzipped"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=doof-dev&repo=musicunzipped&theme=dark"></a>
+									<a margin="20px" href="https://github.com/doof-dev/py-projects" title="py-projects"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=doof-dev&repo=py-projects&theme=dark"></a>
+									<a margin="20px" href="https://github.com/doof-dev/js-projects" title="js-projects"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=doof-dev&repo=js-projects&theme=dark"></a>
   
   <br><br><br><br>
   
@@ -58,7 +58,7 @@ Harvard's CS50x course
 
 
 <br><br><br><br><br><br><br><br>
-<h4 align="center"><a href=https://github.com/stickman-dev?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/doof-dev?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 last updated:
 9/8/22
