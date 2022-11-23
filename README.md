@@ -34,7 +34,7 @@ Harvard's CS50x course
 <br>
 </🔵> discord: **doof#6716**
 
-<h2 align="center">Stats</h2>
+<h2 align="left">Stats</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=doof-dev&show_icons=true&theme=dark"></a>
 
