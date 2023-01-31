@@ -13,7 +13,7 @@
 Harvard's CS50x course
 
 
-🤪 | education and skills: I am a self tught developer. I know Python, HTML, CSS, JS and am starting to learn C/C# soon
+🤪 | education and skills: I am a mostly self taught developer. I know Python, HTML, CSS, JS and am starting to learn C/C# soon
 
 🥅 | long term goals: find a career in technolagy
 
