@@ -25,7 +25,7 @@ Harvard's CS50x course
 	RAM: 32 GB</p>
 
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G0MUJ3W)
 
 
 <h2 align="center">Contact Me</h2>
