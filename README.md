@@ -2,28 +2,6 @@
 <br>
 
 
-<h2 align="center">About Me</h2>
-
-👴🏻 | age: 15.
-
-📌 | interests: programing, networking and cybersecurity
-
-🌎 | current projects: 
-
-Harvard's CS50x course
-
-
-🤪 | education and skills: I am a mostly self taught developer. I know Python, HTML, CSS, JS and am starting to learn C/C# soon
-
-🥅 | long term goals: find a career in technolagy
-
-🥅 | short term goals: finish CS50x
-
-💻 | specs:<p>
-	CUP: AMD ryzen 7 3700x<p>
-	GPU: GIGABYTE Radeon RX 5500 XT</P>
-	RAM: 32 GB</p>
-
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G0MUJ3W)
 
@@ -32,7 +10,7 @@ Harvard's CS50x course
 
 </📨> isaac@isaacj.dev
 <br>
-</🔵> discord: **doof#6716**
+</🔵> discord: **doof.dev**
 
 <h2 align="left">Stats</h2>
 
