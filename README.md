@@ -9,12 +9,6 @@
 
 
 
-
-<h2 align="left">Stats</h2>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=doof-dev&show_icons=true&theme=dark"></a>
-
-
 <h2 align="center">repositorys</h2>
 
 <p width="100%" align="center">
