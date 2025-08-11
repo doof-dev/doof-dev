@@ -3,7 +3,7 @@
 
 <h2 align="center">Contact Me</h2>
 
-</📨> isaac@isaacj.dev
+</📨> isaacjohnson.dev@gmail.com
 <br>
 </🔵> discord: [doof.dev](https://discordapp.com/users/448598131412566037)
 
