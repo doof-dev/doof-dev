@@ -15,7 +15,7 @@
 > CONNECT
 
 <p align="center">
-<a href="http://doof.digital/">doof.digital</a>
+<a href="http://doof.digital/">⭐doof.digital⭐</a>
 
 <p align="center">
 <a href="mailto:isaacjohnson.dev@gmail.com">📨 Email</a>
