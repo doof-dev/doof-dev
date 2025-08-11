@@ -14,6 +14,7 @@
 
 > CONNECT
 
+<p align="center">
 <a href="http://doof.digital/">doof.digital</a>
 
 <p align="center">
