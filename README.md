@@ -12,9 +12,6 @@
 - 🌱 I’m currently learning: 
 - 💬 Ask me about: 
 
-> REPOSITORIES
-<h4 align="center"><a href="https://github.com/doof-dev?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a></h4>
-
 > CONNECT
 <p align="center">
 <a href="mailto:isaacjohnson.dev@gmail.com">📨 Email</a>
@@ -24,6 +21,12 @@
 
 <p align="center">
 <a href="https://ko-fi.com/G2G0MUJ3W">☕ Ko-fi</a>
+
+
+> REPOSITORIES
+<h4 align="center"><a href="https://github.com/doof-dev?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a></h4>
+
+
 
 </p>
 
